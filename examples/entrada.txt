@@ -1,0 +1,6 @@
+# Registro de conexión del servidor de pruebas
+hostname: srv-web-01
+IP de origen: 192.168.1.105
+user: operador_central
+IP de destino: 10.0.0.50
+user: admin_sistema

@@ -1,0 +1,6 @@
+# Registro de conexión del servidor de pruebas
+hostname: REDACTED
+IP de origen: 10.x.x.x
+user: REDACTED
+IP de destino: 10.x.x.x
+user: REDACTED

@@ -1,0 +1,4 @@
+# 📝 Patrones adicionales para redacción
+srv-produccion-clientex
+/home/admin-clientex
+srv-web-01
