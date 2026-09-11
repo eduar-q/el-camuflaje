@@ -12,7 +12,7 @@ Compartir esta información sin filtrar puede exponer detalles innecesarios del 
 
 ## 🔄 ANTES ➔ DESPUÉS
 ```text
-**ANTES:**
+ANTES:
 
 
 hostname: srv-produccion-clientex
