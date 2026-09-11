@@ -56,9 +56,9 @@ el-camuflaje/
 ## 🧪 Pruebas Automatizadas
 
 Para verificar el funcionamiento correcto de las reglas de redacción:
-```
+`
 python3 -m unittest discover tests
-```
+`
 ## 🛡️ Características:
 
 🐍 Desarrollado en Python puro.
