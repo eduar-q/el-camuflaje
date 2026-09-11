@@ -11,10 +11,10 @@ Compartir esta información sin filtrar puede exponer detalles innecesarios del 
 > **Regla fundamental:** No borrar información útil. Ocultar únicamente lo que no necesitas revelar.
 
 ## 🔄 ANTES ➔ DESPUÉS
-
+```text
 **ANTES:**
 
-```text
+
 hostname: srv-produccion-clientex
 IP: 10.42.15.23
 user: admin-clientex
@@ -28,11 +28,11 @@ IP: 10.x.x.x
 user: admin-REDACTED
 path: /home/admin-REDACTED
 port: 5432
-
+```
 La estructura y la información relevante se mantienen, mientras que los datos configurados para ser ocultados son reemplazados.
 
 📁 Estructura del Proyecto
-
+```
 el-camuflaje/
 │
 ├── camuflaje.py
@@ -47,8 +47,8 @@ el-camuflaje/
 │
 └── tests/
     └── test_camuflaje.py
-
-🚀 Uso
+```
+## 🚀 Uso
 
 1. Configurar los patrones
 
@@ -72,13 +72,13 @@ La información procesada se genera en:
 
 examples/salida_camuflada.txt
 
-🧪 Pruebas Automatizadas
+## 🧪 Pruebas Automatizadas
 
 Para verificar el funcionamiento de las reglas de redacción:
 
 python3 -m unittest discover tests
 
-🛡️ Características
+## 🛡️ Características
 
 🐍 Python puro: utiliza la biblioteca estándar de Python.
 
@@ -93,7 +93,7 @@ python3 -m unittest discover tests
 🔒 Local: procesa la información en el propio equipo sin necesidad de servicios externos.
 
 
-⚠️ Alcance y Limitaciones
+## ⚠️ Alcance y Limitaciones
 
 El Camuflaje es una herramienta de apoyo para reducir la exposición accidental de información técnica.
 
