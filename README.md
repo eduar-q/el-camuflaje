@@ -61,23 +61,23 @@ examples/ejemplo_configuracion.txt
 
 Coloca la información técnica que deseas procesar en:
 
-examples/entrada.txt
+`examples/entrada.txt`
 
 3. Ejecutar la herramienta
 
-python3 camuflaje.py
+`python3 camuflaje.py`
 
 4. Revisar el resultado
 
 La información procesada se genera en:
 
-examples/salida_camuflada.txt
+`examples/salida_camuflada.txt`
 
 ## 🧪 Pruebas Automatizadas
 
 Para verificar el funcionamiento de las reglas de redacción:
 
-python3 -m unittest discover tests
+`python3 -m unittest discover tests`
 
 ## 🛡️ Características
 
@@ -96,10 +96,10 @@ python3 -m unittest discover tests
 
 ## ⚠️ Alcance y Limitaciones
 
-El Camuflaje es una herramienta de apoyo para reducir la exposición accidental de información técnica.
+- El Camuflaje es una herramienta de apoyo para reducir la exposición accidental de información técnica.
 
-No garantiza que toda la información sensible de un texto sea detectada automáticamente.
+- No garantiza que toda la información sensible de un texto sea detectada automáticamente.
 
-La herramienta depende de los patrones definidos en su configuración, por lo que el resultado debe revisarse antes de compartir información públicamente.
+- La herramienta depende de los patrones definidos en su configuración, por lo que el resultado debe revisarse antes de compartir información públicamente.
 
-> El Camuflaje ayuda a ocultar lo que le indiques. La revisión humana sigue siendo necesaria.
+- El Camuflaje ayuda a ocultar lo que le indiques. La revisión humana sigue siendo necesaria.
