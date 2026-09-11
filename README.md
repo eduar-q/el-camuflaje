@@ -53,7 +53,7 @@ el-camuflaje/
 
 1. Configurar los patrones
 
-- Define los patrones que deseas ocultar en: examples/ejemplo_configuracion.txt
+- Define los patrones que deseas ocultar en:`examples/ejemplo_configuracion.txt`
 
 2. Preparar la entrada
 
