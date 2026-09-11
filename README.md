@@ -14,7 +14,6 @@ Compartir esta información sin filtrar puede exponer detalles innecesarios del 
 ```text
 ANTES:
 
-
 hostname: srv-produccion-clientex
 IP: 10.42.15.23
 user: admin-clientex
