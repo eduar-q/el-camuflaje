@@ -52,7 +52,6 @@ el-camuflaje/
 3. Ejecuta el script principal:
 ```
 python3 camuflaje.py
-
 ```
 4. Revisa el resultado seguro en examples/salida_camuflada.txt.
 
