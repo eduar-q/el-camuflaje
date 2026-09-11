@@ -27,7 +27,7 @@ port: 5432
 ```
 
 ## 📁 Estructura del Proyecto
-
+```
 el-camuflaje/
 │
 ├── camuflaje.py
@@ -42,6 +42,7 @@ el-camuflaje/
 │
 └── tests/
     └── test_camuflaje.py
+```
 
 ## 🚀 Uso
 
