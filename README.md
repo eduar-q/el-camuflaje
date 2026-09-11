@@ -95,4 +95,4 @@ Para verificar el funcionamiento de las reglas de redacción:
 
 - La herramienta depende de los patrones definidos en su configuración, por lo que el resultado debe revisarse antes de compartir información públicamente.
 
-- El Camuflaje ayuda a ocultar lo que le indiques. La revisión humana sigue siendo necesaria.
+> El Camuflaje ayuda a ocultar lo que le indiques. La revisión humana sigue siendo necesaria.
