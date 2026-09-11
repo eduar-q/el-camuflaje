@@ -20,7 +20,8 @@ IP: 10.42.15.23
 user: admin-clientex
 path: /home/admin-clientex
 port: 5432
-
+```
+```
 DESPUÉS:
 
 hostname: srv-produccion-REDACTED
@@ -31,7 +32,7 @@ port: 5432
 ```
 La estructura y la información relevante se mantienen, mientras que los datos configurados para ser ocultados son reemplazados.
 
-📁 Estructura del Proyecto
+## 📁 Estructura del Proyecto
 ```
 el-camuflaje/
 │
