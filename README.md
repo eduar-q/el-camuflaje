@@ -48,6 +48,7 @@ el-camuflaje/
 └── tests/
     └── test_camuflaje.py
 ```
+
 ## 🚀 Uso
 
 1. Configurar los patrones
