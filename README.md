@@ -16,9 +16,10 @@ IP: 10.42.15.23
 user: admin-clientex
 path: /home/admin-clientex
 port: 5432
-
+```
 
 **DESPUÉS:**
+```text
 hostname: srv-production-REDACTED
 IP: 10.x.x.x
 user: admin-REDACTED
