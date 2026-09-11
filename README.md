@@ -53,23 +53,16 @@ el-camuflaje/
 
 1. Configurar los patrones
 
-Define los patrones que deseas ocultar en:
-
-examples/ejemplo_configuracion.txt
+- Define los patrones que deseas ocultar en: examples/ejemplo_configuracion.txt
 
 2. Preparar la entrada
 
-Coloca la información técnica que deseas procesar en:
+- Coloca la información técnica que deseas procesar en:`examples/entrada.txt`
 
-`examples/entrada.txt`
-
-3. Ejecutar la herramienta
-
-`python3 camuflaje.py`
+3. Ejecutar la herramienta:`python3 camuflaje.py`
 
 4. Revisar el resultado
-
-La información procesada se genera en:
+- La información procesada se genera en:
 
 `examples/salida_camuflada.txt`
 
