@@ -50,7 +50,7 @@ el-camuflaje/
 
 2. Coloca el texto a procesar en examples/entrada.txt.
 
-3. Ejecuta el script principal:`python3 camuflaje.
+3. Ejecuta el script principal: `python3 camuflaje`
 4. Revisa el resultado seguro en examples/salida_camuflada.txt.
 
 ## 🧪 Pruebas Automatizadas
