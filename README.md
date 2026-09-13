@@ -14,11 +14,11 @@ Compartir esta información sin filtrar puede exponer detalles innecesarios del 
 ```text
 ANTES:
 
-hostname: srv-produccion-clientex
+hostname: srv-produccion-example
 IP: 10.42.15.23
-user: admin-clientex
-path: /home/admin-clientex
-port: 5432
+user: admin-example
+path: /home/admin-example
+
 ```
 ```
 DESPUÉS:
