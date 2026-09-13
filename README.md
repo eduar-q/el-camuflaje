@@ -18,6 +18,7 @@ hostname: srv-produccion-example
 IP: 10.42.15.23
 user: admin-example
 path: /home/admin-example
+port: 5432
 
 ```
 ```
@@ -27,7 +28,7 @@ hostname: srv-produccion-REDACTED
 IP: 10.x.x.x
 user: admin-REDACTED
 path: /home/admin-REDACTED
-
+port: 5432
 ```
 La estructura y la información relevante se mantienen, mientras que los datos configurados para ser ocultados son reemplazados.
 
