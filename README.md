@@ -27,7 +27,7 @@ hostname: srv-produccion-REDACTED
 IP: 10.x.x.x
 user: admin-REDACTED
 path: /home/admin-REDACTED
-port: 5432
+
 ```
 La estructura y la información relevante se mantienen, mientras que los datos configurados para ser ocultados son reemplazados.
 
