@@ -1,4 +1,4 @@
-# 🎭 El Camuflaje
+# 🦎 El Camuflaje
 
 Herramienta ligera en Python diseñada para preparar información técnica antes de compartirla, preservando la estructura útil y ocultando datos sensibles o internos.
 
